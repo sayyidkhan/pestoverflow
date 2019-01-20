@@ -1,4 +1,4 @@
-# pestoverflow
+# pestOVERFLOW
 An IOT pest detector which aims to do pest analysis around your home
 
 ## link to the video and devpost
