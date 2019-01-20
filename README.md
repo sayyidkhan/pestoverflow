@@ -1,6 +1,9 @@
 # pestoverflow
 An IOT pest detector which aims to do pest analysis around your home
 
+## link to the video and devpost
+https://devpost.com/software/ap-pest-overflow
+
 ## Slides Link
 
 * https://drive.google.com/open?id=1kFcdvhT4vB6llclgC1PFCr38I8kxhPC2GimvHeIzSAA
